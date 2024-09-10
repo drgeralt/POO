@@ -18,7 +18,10 @@ public class Main {
         novoGato.matarGato();
         System.out.println(novoGato.vidasRestantes);
 
+        /*
+        teste
 
+         */
 
 
     }
