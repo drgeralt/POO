@@ -14,3 +14,4 @@ public class Termo {
         return (int) (this.coeficiente * Math.pow(valor,this.expoente));
     }
 }
+//teste
