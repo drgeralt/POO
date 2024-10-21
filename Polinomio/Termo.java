@@ -2,6 +2,7 @@ package Polinomio;
 
 public class Termo {
     int coeficiente, expoente;
+    Termo(){}
     Termo(int a, int b){
         coeficiente = a;
         expoente = b;
